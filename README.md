@@ -1,6 +1,6 @@
 # iTerm2 Configuration
 
-This repository contains a comprehensive how-to guide on configuring your iTerm2 shell like mine. Let's be honest, the default Mac OS Terminal application is a little boring, and if you use it, it makes you appear to be an un-creative, boring developer. However, you don't have to be boring! If you want trick other developers into thinking that you're cool, do like I did and download iTerm2 with some cool plugins and themes!
+This repository contains a comprehensive how-to guide on configuring your iTerm2 shell like mine. Let's be honest, the default Mac OS Terminal application is pretty boring, and if you use it, you'll appear to be an unimaginative, dull developer. However, you don't have to be boring. If you want trick other developers into thinking that you're cool, do like I did and download iTerm2 with some cool plugins and themes!
 
 ## Demo
 <p align="center">
