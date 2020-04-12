@@ -4,7 +4,7 @@ This repository contains a comprehensive how-to guide on configuring your iTerm2
 
 ## Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elijahsawyers/iTerm2-Configuration/master/Demo.png" />
+  <img src="https://raw.githubusercontent.com/elijahsawyers/iTerm2-Configuration/master/Demo.gif" />
 </p>
 
 ## Tutorial
