@@ -37,7 +37,7 @@ cd fonts
 ./install.sh
 ```
 
-After installing Powerline fonts, set your font in iTerm2's by going to ```Preferences... -> Profiles -> Text``` and changing the font to *Regular 12pt Meslo LG S DZ for Powerline*.
+After installing Powerline fonts, set your font in iTerm2 by going to ```Preferences... -> Profiles -> Text``` and changing the font to *Regular 12pt Meslo LG S DZ for Powerline*.
 
 ### Change the zsh theme to agnoster
 To do this, you'll need to edit your *~/.zshrc* file. Open up your text editor of choice (if you're a programming wizard, you use vim) and set ```ZSH_THEME="agnoster"```. There should already be a *ZSH_THEME* environment variable in the file, so you'll just have to change the value to be *"agnoster"*.
@@ -45,14 +45,14 @@ To do this, you'll need to edit your *~/.zshrc* file. Open up your text editor o
 To see the change, you'll either have to source the  *~/.zshrc* file or close your current iTerm2 window and open a new one.
 
 ### Set the default user
-I, personally, do not like having *username@computer* displayed next to my current working directory, so I removed it. To do this, in the *~/.zshrc* file, add a line with: ```DEFAULT_USER=$USER*```
+I, personally, do not like having *username@computer* displayed next to my current working directory, so I removed it. To do this, in the *~/.zshrc* file, add a line with: ```DEFAULT_USER=$USER```
 
 Again, to see the change, you'll either have to source the  *~/.zshrc* file or close your current iTerm2 window and open a new one.
 
 ### Change the color theme to Dracula
 In my opinion, [Dracula](https://draculatheme.com/) is the best color theme out there for anything programming-related. I not only use it in iTerm2, but I also use it as my theme in [VS Code](https://code.visualstudio.com/).
 
-To get Dracula, download the [Dracula.itermcolors](https://github.com/dracula/iterm/blob/fb852408c1320069a416d734eca876e82ac4cc43/Dracula.itermcolors) file. After doing so, in iTerm2, go to ```Preferences... -> Profiles -> Colors* and select *Color Presets... -> Import```. Navigate to the *Dracula.itermcolors* file and select it. After importing the Dracula theme, select ```Color Presets... -> Dracula```.
+To get Dracula, download the [Dracula.itermcolors](https://github.com/dracula/iterm/blob/fb852408c1320069a416d734eca876e82ac4cc43/Dracula.itermcolors) file. After doing so, in iTerm2, go to ```Preferences... -> Profiles -> Colors``` and select ```Color Presets... -> Import```. Navigate to the *Dracula.itermcolors* file and select it. After importing the Dracula theme, select ```Color Presets... -> Dracula```.
 
 You should now have the Dracula theme in iTerm2!
 
