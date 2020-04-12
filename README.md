@@ -1,4 +1,4 @@
-This repository contains a comprehensive how-to guide on configuring your iTerm2 shell like mine. Let's be honest, the default Mac OS Terminal application is pretty boring, and if you use it, you'll appear to be an unimaginative, dull developer. However, you don't have to be boring. If you want trick other developers into thinking that you're cool, do like I did and download iTerm2 with some cool plugins and themes!
+This repository contains a comprehensive how-to guide on configuring your iTerm2 terminal like mine. Let's be honest, the default Mac OS Terminal application is pretty boring, and if you use it, you'll appear to be an unimaginative, dull developer. However, you don't have to be boring. If you want trick other developers into thinking that you're cool, do like I did and download iTerm2 with some cool plugins and themes!
 
 ## Demo
 <p align="center">
@@ -60,4 +60,4 @@ To get rid of the color mismatch between the iTerm2 window and the title bar, go
 To change the default window title, go to ```Preferences... -> Profiles -> Window```, check *Custom window title*, and type whatever you'd like. I chose to simply type *Shell*, but it's honesty up to you.
 
 ## That's all folks
-That's it! You should now have an iTerm2 shell that looks exactly like mine! Gone are the days of having a boring shell on Mac OS!
+That's it! You should now have an iTerm2 shell that looks exactly like mine! Gone are the days of having a boring terminal on Mac OS!
